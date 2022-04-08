@@ -100,5 +100,5 @@ ignore:
 theme: landscape
 
 
-# Deployment## Docs: https://hexo.io/docs/one-command-deploymentdeploy:type: git repo: git@github.com:zzhSunshine.github.io.git branch: main
+# Deployment## Docs: https://hexo.io/docs/one-command-deploymentdeploy:type: git repo: git@github.com:zzhSunshine.github.io.git branch: master
 
